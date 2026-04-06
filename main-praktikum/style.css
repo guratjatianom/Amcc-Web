@@ -63,7 +63,13 @@ MULAI NGODING LAYOUT DI BAWAH INI
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 210px 250px;
+    padding: 250px 250px;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+                url('gedung.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
 }
 
 .btn {
